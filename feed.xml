@@ -1,1 +1,12 @@
-# rssfeed
+<? xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+<title>*Simple Build*</title>
+<description></description>
+<link>http://www.yourweb.com</link>
+<item>
+<title>******Revision 2.0 Now Released. Stay Tuned For More!!***** </title>
+<description> Enjoy </description>
+<link>http://www.yourweb.com</link>
+</channel>
+</rss>
